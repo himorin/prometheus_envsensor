@@ -1,0 +1,7 @@
+{
+  "server_name": "Test envsensor server",
+  "port": 9902,
+  "cache": 30,
+  "module": [
+  ]
+}
